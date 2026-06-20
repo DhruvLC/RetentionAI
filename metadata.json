@@ -1,0 +1,6 @@
+{
+  "name": "RetentionAI",
+  "description": "AI-Powered Customer Churn Prediction, Customer Lifetime Value (CLV) Prediction & Retention Intelligence Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
